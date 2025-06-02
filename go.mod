@@ -1,4 +1,4 @@
-module github.com/synthesio/zconfigcheck
+module github.com/ccoveille/zconfigcheck
 
 go 1.24
 

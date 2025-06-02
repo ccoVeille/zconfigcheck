@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/synthesio/zconfigcheck"
+	"github.com/ccoveille/zconfigcheck"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 

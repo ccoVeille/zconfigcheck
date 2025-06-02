@@ -10,7 +10,7 @@ See the [dedicated README.md file](golangci/README.md) for more information abou
 ## Installation
 
 ```console
-$ go install github.com/synthesio/zconfigcheck/cmd/zconfigcheck@latest
+$ go install github.com/ccoveille/zconfigcheck/cmd/zconfigcheck@latest
 ```
 
 ## Usage

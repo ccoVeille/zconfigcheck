@@ -7,7 +7,7 @@ please follow the guidelines described in this document.
 
 ## Bug reports and proposals
 
-We use the [GitHub issue tracker](https://github.com/synthesio/zconfigcheck/issues) for bugs
+We use the [GitHub issue tracker](https://github.com/ccoveille/zconfigcheck/issues) for bugs
 and feature proposals. Please check both the open and closed lists before posting
 a new issue.
 Please be as specific as you can: issues should have descriptive titles and relevant labels.
@@ -29,7 +29,7 @@ If it's your first contribution, start by forking the repository.
 Do not forget to:
 - add new test cases whenever they are needed
 - run unit tests before asking for review
-- add an entry in the [CHANGELOG](https://github.com/synthesio/zconfigcheck/blob/master/CHANGELOG.md) file
+- add an entry in the [CHANGELOG](https://github.com/ccoveille/zconfigcheck/blob/master/CHANGELOG.md) file
 
 Commit messages should follow these [guidelines](https://chris.beams.io/posts/git-commit/):
 1. Separate subject from body with a blank line
@@ -40,7 +40,7 @@ Commit messages should follow these [guidelines](https://chris.beams.io/posts/gi
 6. Wrap the body at 72 characters
 7. Use the body to explain what and why vs. how
 
-When your changes are ready for review, open a [pull request](https://github.com/synthesio/zconfigcheck/pulls) and reference the corresponding issue.
+When your changes are ready for review, open a [pull request](https://github.com/ccoveille/zconfigcheck/pulls) and reference the corresponding issue.
 
 
 ## Coding conventions

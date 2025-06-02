@@ -2,7 +2,7 @@ package golangci
 
 import (
 	"github.com/golangci/plugin-module-register/register"
-	"github.com/synthesio/zconfigcheck"
+	"github.com/ccoveille/zconfigcheck"
 	"golang.org/x/tools/go/analysis"
 )
 

@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/synthesio/zconfigcheck"
+	"github.com/ccoveille/zconfigcheck"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 
