@@ -4,7 +4,7 @@ go 1.24
 
 require (
 	github.com/fatih/structtag v1.2.0
-	github.com/golangci/plugin-module-register v0.1.1
+	github.com/golangci/plugin-module-register v0.1.2
 	github.com/synthesio/zconfig/v2 v2.2.0
 	golang.org/x/exp/typeparams v0.0.0-20250506013437-ce4c2cf36ca6
 	golang.org/x/tools v0.33.0
